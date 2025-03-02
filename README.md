@@ -5,7 +5,7 @@ My submission of this program's 3 tasks:
 - Experimentation and uplift testing, and
 - Analytics and commercial application.
 ## Dependencies
-Language: Python 3.8
+Language: Python 3.11
 Packages: pandas, matplotlib, mlxtend, datetime, sklearn, scipy
 
 ## Project Overview and Task Insights
